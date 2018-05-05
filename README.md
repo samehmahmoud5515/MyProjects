@@ -11,7 +11,7 @@ IOS projects
  
 2- Giftdrobe
 
- An e-commerce app for sending gifts for the person u wants.
+ An e-commerce app for sending gifts for the person u wants and making your own calender of events
 
 
 -----------------------------------------------------------------------------------------------------------------------------------
