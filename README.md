@@ -22,12 +22,16 @@ Android Projects:
 
 1- Na2awa https://play.google.com/store/apps/details?id=com.logic_designs.n2awa
  
-An e-comerce app for buying fruits and vegetables
-
-github link https://github.com/samehmahmoud5515/na2awa
+An e-comerce app for buying fruits and vegetables (JAVA and MVP architecture)
 
 2- Mal3bak  https://play.google.com/store/apps/details?id=com.logicdesigns.mohammed.mal3bklast
 
  An Android app for reserving playgrounds and football team managmnet
  
  github link https://github.com/samehmahmoud5515/Mal3bk
+ 
+ 3- Credit-charge 
+ 
+ An Android app for transfer mobile credit when back end request to, it uses scocket programming for comunication to sever 
+ 
+ github link https://github.com/samehmahmoud5515/Credit-Charge
