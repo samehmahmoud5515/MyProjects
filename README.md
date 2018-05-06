@@ -4,7 +4,7 @@ My Name is Sameh Al-Malah, an IOS devloper
 IOS projects 
 
 
-1- Giftdrobe (Still at test flight and will be on app store soon)
+1- Giftdrobe (Still on test flight and will be on app store soon)
 
  An e-commerce app for sending gifts for the person u wants and making your own calender of events, it's written in swift and MVVM architecture
 
