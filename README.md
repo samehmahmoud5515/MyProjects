@@ -28,8 +28,6 @@ An e-comerce app for buying fruits and vegetables (JAVA and MVP architecture)
 
  An Android app for reserving playgrounds and football team managmnet
  
- github link https://github.com/samehmahmoud5515/Mal3bk
- 
  3- Credit-charge 
  
  An Android app for transfer mobile credit when back end request to, it uses scocket programming for comunication to sever 
