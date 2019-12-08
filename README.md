@@ -13,8 +13,8 @@ We integrated rocket chat in order to make public chatting on channels.
 Technologies: 
 VIPER - rxswift - Protocol oriented programming - socket programming - streaming media - realm - unit testing.
 
-Link: https://developers.google.com/url-shortener/v1/getting_started
-
+IOS link: https://apps.apple.com/eg/app/tooli/id1445743674
+TVOS link: https://apps.apple.com/eg/app/tooli-tv/id1451404530
 
 2- Giftdrobe https://itunes.apple.com/eg/app/giftdrobe/id1391071688?mt=8
 
