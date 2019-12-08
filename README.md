@@ -1,5 +1,6 @@
 # MyProtfolio
-My Name is Sameh Al-Malah, an IOS devloper
+
+My Name is Sameh Al-Malah, I am a senior iOS/tvOS devloper. Also I worked as Android developer and have many apps on play store.
 
 IOS projects 
 
