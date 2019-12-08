@@ -3,6 +3,17 @@ My Name is Sameh Al-Malah, an IOS devloper
 
 IOS projects 
 
+1- Tooli (iOS and tvOS)
+
+Tooli is an live streaming and VOD app which has more than 12k users. I've worked on both iOS and tvOS versions.
+Tooli has more than 1000 live streaming channels from Arabsat and more than 1000 movie and series.
+We integrated rocket chat in order to make public chatting on channels.
+
+Technologies: 
+VIPER - rxswift - Protocol oriented programming - socket programming - streaming media - realm - unit testing.
+
+Link: https://developers.google.com/url-shortener/v1/getting_started
+
 
 1- Giftdrobe https://itunes.apple.com/eg/app/giftdrobe/id1391071688?mt=8
 
