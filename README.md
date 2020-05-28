@@ -1,6 +1,6 @@
 
 My Name is Sameh Al-Malah, I am a senior iOS/tvOS devloper. Also I worked as Android developer and have many apps on play store.
-I am ثnthusiastic to take a new challenge and ready to reallocate. 
+I am enthusiastic to take a new challenge and ready to reallocate. 
 
 IOS projects 
 
