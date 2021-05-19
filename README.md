@@ -4,7 +4,13 @@ I am enthusiastic to take a new challenge and ready to reallocate.
 
 IOS projects 
 
-1- Tooli (iOS and tvOS)
+1- Lady bug (iOS)
+
+An app for manging large farms and it's crops and products also.
+
+https://github.com/samehmahmoud5515/LadyBug
+
+2- Tooli (iOS and tvOS)
 
 Tooli is an live streaming and VOD app which has more than 12k users. I've worked on both iOS and tvOS versions.
 Tooli has more than 1000 live streaming channels from Arabsat and more than 1000 movie and series.
@@ -18,25 +24,30 @@ IOS link: https://apps.apple.com/eg/app/tooli-tv/id1451404530#?platform=iphone
 TVOS link: https://apps.apple.com/eg/app/tooli-tv/id1451404530#?platform=appleTV
 
 
-2- Emirates Auction
+3- Emirates Auction
 
 Emirates Auction (EA) is the largest auction company in the Middle East. It has exclusive contracts to auction several governments and banks’ assets. EA built its reputation in the distinguished number plates where the company achieved several world records.
 
 App sore: https://apps.apple.com/ae/app/emirates-auction/id473718109
 
 
-3- Giftdrobe https://itunes.apple.com/eg/app/giftdrobe/id1391071688?mt=8
+4- Giftdrobe https://itunes.apple.com/eg/app/giftdrobe/id1391071688?mt=8
 
  An e-commerce app for sending gifts for the person u wants and making your own calender of events, it's written in swift and MVVM architecture
 
 github link https://github.com/samehmahmoud5515/GiftdrobeIOS
 
 
-4- Mal3bk https://itunes.apple.com/gb/app/mal3abk/id1279805257?mt=8
+5- Mal3bk https://itunes.apple.com/gb/app/mal3abk/id1279805257?mt=8
 
  An Ios app for reserving playgrounds and football team managmnet, it's written in swift 
  
  github link https://github.com/samehmahmoud5515/IOSMal3bk
+ 
+ 
+ Some snipts I wrote 
+ 
+ https://gist.github.com/samehmahmoud5515
  
 -----------------------------------------------------------------------------------------------------------------------------------
 
