@@ -1,5 +1,5 @@
 
-My Name is Sameh Al-Malah, I am a senior iOS/tvOS devloper. Also I worked as Android developer and have many apps on play store.
+My Name is Sameh Al-Malah, I am a senior iOS devloper.
 I am enthusiastic to take a new challenge and ready to reallocate. 
 
 IOS projects 
@@ -35,14 +35,11 @@ App sore: https://apps.apple.com/ae/app/emirates-auction/id473718109
 
  An e-commerce app for sending gifts for the person u wants and making your own calender of events, it's written in swift and MVVM architecture
 
-github link https://github.com/samehmahmoud5515/GiftdrobeIOS
 
 
 5- Mal3bk https://itunes.apple.com/gb/app/mal3abk/id1279805257?mt=8
 
  An Ios app for reserving playgrounds and football team managmnet, it's written in swift 
- 
- github link https://github.com/samehmahmoud5515/IOSMal3bk
  
  
  Some snipts I wrote 
@@ -50,23 +47,3 @@ github link https://github.com/samehmahmoud5515/GiftdrobeIOS
  https://gist.github.com/samehmahmoud5515
  
 -----------------------------------------------------------------------------------------------------------------------------------
-
-Android Projects:
-
-1- Giftdrobe https://play.google.com/store/apps/details?id=com.logic_designs.giftdrobe
-
- An e-commerce app for sending gifts for the person u wants and making your own calender of events, it's written in JAVA and MVP architecture
- 
-2- Na2awa https://play.google.com/store/apps/details?id=com.logic_designs.n2awa
- 
-An e-comerce app for buying fruits and vegetables (JAVA and MVP architecture)
-
-3- Mal3bak  https://play.google.com/store/apps/details?id=com.logicdesigns.mohammed.mal3bklast
-
- An Android app for reserving playgrounds and football team managmnet
- 
- 4- Credit-charge 
- 
- An Android app for transfer mobile credit when back end request to, it uses scocket programming for comunication to sever 
- 
- github link https://github.com/samehmahmoud5515/Credit-Charge
