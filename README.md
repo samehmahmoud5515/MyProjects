@@ -11,16 +11,12 @@ https://github.com/samehmahmoud5515/LadyBug
 
 2- Tooli (iOS and tvOS)
 
-Tooli is an live streaming and VOD app which has more than 12k users. I've worked on both iOS and tvOS versions.
-Tooli has more than 1000 live streaming channels from Arabsat and more than 1000 movie and series.
-We integrated rocket chat in order to make public chatting on channels.
+Tooli is an live streaming and VOD app which has more than 20k users. I've worked on both iOS and tvOS platforms. Tooli has more than 1000 live streaming channels from Arabsat and more than 1000 movie and series. We integrated rocket chat in order to make public chatting on channels. 
+Technologies: VIPER - rxswift - Protocol oriented programming - socket programming - streaming media - realm - unit testing - AWS Services - GraphQL 
 
-Technologies: 
-VIPER - rxswift - Protocol oriented programming - socket programming - streaming media - realm - unit testing - AWS Services - GraphQL
+IOS link: https://apps.apple.com/eg/app/tooli-tv/id1451404530#?platform=iphone 
 
-IOS link: https://apps.apple.com/eg/app/tooli-tv/id1451404530#?platform=iphone
-
-TVOS link: https://apps.apple.com/eg/app/tooli-tv/id1451404530#?platform=appleTV
+TVOS link: https://apps.apple.com/eg/app/tooli-tv/id1451404530#?platform=appleTV 
 
 
 3- Emirates Auction
