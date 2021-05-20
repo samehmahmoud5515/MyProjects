@@ -1,6 +1,5 @@
 
 My Name is Sameh Al-Malah, I am a senior iOS devloper.
-I am enthusiastic to take a new challenge and ready to reallocate. 
 
 IOS projects 
 
