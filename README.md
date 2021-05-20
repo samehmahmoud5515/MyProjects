@@ -29,10 +29,14 @@ Emirates Auction (EA) is the largest auction company in the Middle East. It has 
 
 App sore: https://apps.apple.com/ae/app/emirates-auction/id473718109
 
+4- Emirates Roadside Assistance
+
+An app for road side assistance services like towing and fuel providing. This app mainly based on Maps and location handling application.
+
 
 4- Giftdrobe https://itunes.apple.com/eg/app/giftdrobe/id1391071688?mt=8
 
- An e-commerce app for sending gifts for the person u wants and making your own calender of events, it's written in swift and MVVM architecture
+ An e-commerce app for sending gifts for the person u wants and making your own calender of events, it's written in swift and MVVM architecture.
 
 
 
